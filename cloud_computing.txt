@@ -1,0 +1,3 @@
+Some companies provide their computer infrastructure over internet as a Service. 
+This type of new business model or remote computing is known as cloud computing. 
+Now adays many bigger companies are creating data centers and small scale companies are using the service, while both get different benefits.
